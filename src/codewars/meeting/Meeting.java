@@ -1,4 +1,4 @@
-package codewars;
+package codewars.meeting;
 
 import java.util.*;
 

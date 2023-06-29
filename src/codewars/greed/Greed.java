@@ -1,4 +1,4 @@
-package codewars;
+package codewars.greed;
 
 import java.util.HashMap;
 import java.util.Map;

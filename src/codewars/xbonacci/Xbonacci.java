@@ -1,4 +1,4 @@
-package codewars;
+package codewars.xbonacci;
 
 import java.util.Arrays;
 

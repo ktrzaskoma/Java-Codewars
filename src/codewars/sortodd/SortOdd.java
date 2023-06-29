@@ -1,4 +1,4 @@
-package codewars;
+package codewars.sortodd;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package codewars;
+package codewars.incrementer;
 
 import java.math.BigInteger;
 import java.util.regex.Matcher;
