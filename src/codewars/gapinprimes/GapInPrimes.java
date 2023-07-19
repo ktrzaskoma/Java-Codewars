@@ -33,11 +33,15 @@ public class GapInPrimes {
                 return false;
             }
         }
-
         return true;
     }
 
+
+
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(gap(2, 3, 50)));  // [3, 5]
+//        System.out.println(Arrays.toString(gap(2, 3, 50)));  // [3, 5]
+
+        System.out.println(isPrime(15));
     }
+
 }
