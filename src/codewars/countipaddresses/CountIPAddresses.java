@@ -1,4 +1,4 @@
-package codewars;
+package codewars.countipaddresses;
 
 import java.util.ArrayList;
 
