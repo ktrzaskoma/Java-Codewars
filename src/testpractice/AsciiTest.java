@@ -1,4 +1,4 @@
-package basement_space;
+package testpractice;
 
 public class AsciiTest {
 
